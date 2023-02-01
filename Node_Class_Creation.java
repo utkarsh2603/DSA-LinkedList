@@ -15,6 +15,7 @@ public class Node_Class_Creation
     public static Node head;
     public static Node tail;
 
+
     public static void main(String args[])
     {
 
